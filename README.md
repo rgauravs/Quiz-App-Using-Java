@@ -65,13 +65,13 @@ git clone https://github.com/rgauravs/Quiz-App-Using-Java.git
 4. Use default credentials or manually insert users/admins into the database.
 
 ## ✨ Future Enhancements
-Leaderboard support
+- Leaderboard support
 
-Quiz categories (e.g., Science, History)
+- Quiz categories (e.g., Science, History)
 
-Export results as PDF
+- Export results as PDF
 
-Password reset feature
+- Password reset feature
 
-Dark/light theme toggle
+- Dark/light theme toggle
 
