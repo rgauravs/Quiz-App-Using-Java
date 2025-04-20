@@ -41,3 +41,37 @@ A full-featured desktop-based **Quiz Application** built using **JavaFX** and **
 | JDBC | Java Database Connectivity API |
 | FXML | For structuring UI layout |
 | Java 11+ | Compatible with Java 11 and above |
+
+
+## 🚀 How to Run
+
+### Prerequisites
+- Java 11 or above installed
+- JavaFX SDK configured
+- SQLite JDBC driver added to the project
+- IDE like IntelliJ IDEA or Eclipse
+
+### Steps
+
+1. Clone the repo:
+```bash
+git clone https://github.com/rgauravs/Quiz-App-Using-Java.git
+```
+
+2. Open in IDE and configure JavaFX and SQLite JDBC driver.
+
+3. Run the Main.java file to start the application.
+
+4. Use default credentials or manually insert users/admins into the database.
+
+## ✨ Future Enhancements
+Leaderboard support
+
+Quiz categories (e.g., Science, History)
+
+Export results as PDF
+
+Password reset feature
+
+Dark/light theme toggle
+
